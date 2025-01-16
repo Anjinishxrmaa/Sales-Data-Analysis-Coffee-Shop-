@@ -1,4 +1,4 @@
-# Sales-Data-Analysis-Coffee-Shop-
+
 <h1>☕ Coffee Shop Sales Analysis</h1>
 <h2>📌 Project Overview</h2>
 This project focuses on analyzing and visualizing sales data for a coffee shop to uncover key insights about sales performance, customer preferences, and revenue trends. The goal is to assist in making data-driven decisions for improving business outcomes.
