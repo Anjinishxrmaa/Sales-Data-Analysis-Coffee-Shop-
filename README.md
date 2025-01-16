@@ -13,29 +13,29 @@ Barista Espresso
 Brewed Black Tea
 Gourmet Brewed Coffee
 
-<h2>**Visual Highlights:**</h2>
+<h2>Visual Highlights:</h2>
 ✅ Quantity ordered based on hours of the day
 ✅ Revenue and footfall distribution across store locations
 ✅ Category-wise percentage contribution to sales
 ✅ Order size distribution and customer behavior analysis
 
 
-<h2>**💻 Tools Used**</h2>
+<h2>💻 Tools Used</h2>
 Microsoft Excel: Data analysis and dashboard creation
 Pivot Tables and Charts: For dynamic, interactive visualizations
 Conditional Formatting: Highlight key data trends
 
-<h2>**🚀 Key Skills Demonstrated**</h2>
-**Data Analysis**: Identifying trends and patterns in sales and footfall
-**Data Visualization**: Creating an interactive, professional dashboard
-**Business Insights**: Translating raw data into actionable insights
+<h2>🚀 Key Skills Demonstrated</h2>
+Data Analysis: Identifying trends and patterns in sales and footfall
+Data Visualization: Creating an interactive, professional dashboard
+Business Insights: Translating raw data into actionable insights
 
-<h2>**🌟 Next Steps**</h2>
+<h2>🌟 Next Steps</h2>
 🔹 Automate data updates for real-time insights
 🔹 Expand the dashboard to include predictive analytics for sales forecasting
 🔹 Integrate the project with other tools like Power BI for advanced features
 
-<h2>**🤝 Contributing**</h2>
+<h2>🤝 Contributing</h2>
 This is a personal project, but feedback and suggestions are welcome! Feel free to fork the repository or share your thoughts.
 
 <h2>📧 Contact</h2>
